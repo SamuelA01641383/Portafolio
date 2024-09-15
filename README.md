@@ -11,11 +11,10 @@ APRENDIZAJE
   
 - Actividad de clasificación: Realizar el balance de clases durante el entrenamiento de los modelos y no antes.
 
-ESTADISTICA 
+ESTADISTICA  (retroalmentación dada, pero no esta corregida)
 
 - M1.1 Actividad Distribuciones: No se interpretaron los gráficos Q-Q. Para el inciso d) no se obtuvieron distribuciones más probables para los datos 1 y 3.
 - M1.2 Datos Faltantes y Outliers: No se incluye la interpretación de las estadísticas descriptivas como apoyo para definir el método de imputación adecuado, Para la variable absences es recomendable la mediana, pero no la moda porque son datos numéricos asimétricos,     Faltó vincular con la distribución de los datos antes y después de la imputación.
-
 - M1.3 Transformaciones e Inferencia Estadística:  Falta interpretación de la estadística descriptiva. Se podría complementar con análisis gráfico (histograma, boxplot, diagramas de dispersión), Faltó mayor interpretación en el análisis. Se pudo mencionar simetría de los datos, en dónde está el centro, la forma del histograma, etc.
 
 RETO (reporte)
